@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OhMyGodNoah
+- 👀 I’m interested in Python, C++, Blender and Unreal Engine 5
+- 🌱 I’m currently learning.
+- 💞️ I’m looking to collaborate on game development or anything to help people
+- 📫 email: noah@greerelectronics.com
